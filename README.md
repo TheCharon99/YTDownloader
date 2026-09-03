@@ -9,7 +9,7 @@ YouTube 视频/音频下载器，Python + PyQt5 实现。
 
 ### Windows（推荐）
 直接下载 exe 文件，双击即可运行，无需安装 Python：
-- [YTDownloader.exe (8MB)](https://github.com/TheCharon99/YTDownloader/releases)
+- [YTDownloader.exe (7MB)](https://github.com/TheCharon99/YTDownloader/releases/tag/v1.0.0)
 
 ### 源码安装
 ```bash
